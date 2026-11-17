@@ -1,9 +1,7 @@
 
 **Subashree Guruchandar**
 ---
-MSc Data Science and Analytics | B.Tech Computer Science Engineering (Artificial Intelligence and Machine Learning)
-
-Cork, Ireland
+Data Science and Analytics (UCC, Ireland) | B.Tech Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning (SRM-KTR campus, India)
 
 ---
 **About**
